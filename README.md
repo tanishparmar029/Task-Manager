@@ -1,4 +1,4 @@
-<h2>Task Manager<h2/>
+<h2>Task Manager</h2>
 A Task Manager app built with React, Vite, TypeScript, Redux, and Tailwind CSS. It supports CRUD operations to manage tasks and is hosted on Netlify.
 
 🚀 Live Demo
